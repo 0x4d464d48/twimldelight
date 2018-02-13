@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response> 
-    <Say>The power to destroy a planet pails in comparison to the power of the force. What is it my master? I find your lack of faith distrubing. Luke I am your father.</Say>
+    <Say>{{text}}</Say>
 </Response>
 
